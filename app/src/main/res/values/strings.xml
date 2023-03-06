@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">To Do App Project</string>
+    <string name="your_list">YOUR LIST</string>
+    <string name="x">X</string>
+    <string name="add">Add</string>
+    <string name="update_your_details">Update your Details</string>
+    <string name="write_your_task">Write your task</string>
+    <string name="delete">DELETE</string>
+    <string name="your_task_will_go_here">your task will go here</string>
+    <string name="priority">priority</string>
+    <string name="task_here">Task Here</string>
+    <string name="time">Time</string>
+    <string name="priority_medium">medium priority</string>
+    <string name="list">List of things to do</string>
+    <string name="save">Save</string>
+    <string name="write_your_task1">Write your task</string>
+    <string name="write_task_s_priority">Write task\'s priority</string>
+    <string name="Time">Time</string>
+    <string name="List">List</string>
+    <string name="enter_task_s_details">Enter Task\'s Details</string>
+    <string name="app_to_do_list">App To Do List</string>
+    <string name="organize_your_day">Organize your day!</string>
+    <string name="Add">ADD</string>
+    <string name="check">CHECK</string>
+    <string name="To_do_list">To Do List</string>
+    <string name="organize_your_day_dot">Organize your day...</string>
+    <string name="check_it_off_when_you_are_done">Check it off when you are done!</string>
+</resources>
